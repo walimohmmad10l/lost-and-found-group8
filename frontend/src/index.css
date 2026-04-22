@@ -79,7 +79,7 @@ img { max-width: 100%; }
 }
 .nav-link:hover, .nav-link.active { color: var(--primary); background: #f0f0ff; }
 
-/* Buttons */
+/* Button */
 .btn {
   display: inline-flex;
   align-items: center;
